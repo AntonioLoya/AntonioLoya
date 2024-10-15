@@ -68,7 +68,7 @@
   <a href="https://www.instagram.com/_antonioloya/profilecard/?igsh=NGY2eHhtZ2lhYjJh" target="blank">
     <img align="center" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="instagram" height="50" width="50" />
   </a>
-  <a href="https://outlook.live.com/mail/0/?realm=outlook.es" target="blank">
+  <a href="antonioloya1228@hotmail.com" target="blank">
     <img align="center" src="https://img.icons8.com/?size=100&id=ut6gQeo5pNqf&format=png&color=000000" alt="outlook" height="50" width="50" />
   </a>
 </p>
