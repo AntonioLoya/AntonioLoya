@@ -15,42 +15,36 @@
 <tr border="none">
 <td colspan="2" align="center">
 
-  <!-- GIF mostrado primero, centrado -->
   <img align="center" alt="Coding" width="250" src="https://media.giphy.com/media/5GQG3yMJJDrdeMEcVj/giphy.gif?cid=790b761128aqzj3czpumq1vqht8uls9iv8vt7txkebxiuv2a&ep=v1_gifs_search&rid=giphy.gif&ct=g">
   
 </td>
 </tr>
 <tr border="none">
 <td width="50%" align="left">
-
+  
 - 💻 Hola, soy Antonio. Colaboro en el desarrollo de experiencias inmersivas utilizando Unity y Realidad Virtual, habiendo trabajado en proyectos como recorridos interactivos en VR. Además, he participado en proyectos de desarrollo web en el [Laboratorio de desarrollo de Apps](https://github.com/X-devlab) de la División Académica de Ciencias y Tecnologías de la Información de la Universidad Juárez Autónoma de Tabasco.
-
-
+  
 </td>
 </tr>
 </table>
-
-
 
 ---
 
 <h3 align="center">Mis estadísticas:</h3>
 <p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=AntonioLoya&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AntonioLoya&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AntonioLoya&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=AntonioLoya" alt="GitHub Streak" style="border: 1px solid #ddd; border-radius: 10px; width: 100%;" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioLoya&hide_progress=true" alt="Top Languages" style="border: 1px solid #ddd; border-radius: 10px; width: 100%;" />
+    </td>
+  </tr>
 </table>
+</p>
 
 ---
 
