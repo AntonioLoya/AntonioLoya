@@ -59,7 +59,7 @@
   <a href="https://www.facebook.com/share/sbEKhJYnpnL1vMrd/?mibextid=LQQJ4d" target="blank">
     <img align="center" src="https://img.icons8.com/?size=100&id=118497&format=png&color=000000" alt="facebook" height="50" width="50" />
   </a>
-  <a href="https://www.instagram.com/_antonioloya/profilecard/?igsh=NGY2eHhtZ2lhYjJh" target="blank">
+  <a href="https://www.instagram.com/_antonioloya/" target="blank">
     <img align="center" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="instagram" height="50" width="50" />
   </a>
  <a href="mailto:antonioloya1228@hotmail.com" target="blank">
