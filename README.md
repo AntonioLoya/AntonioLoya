@@ -22,7 +22,8 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 💻 Hola, soy Antonio. Colaboro en el desarrollo de experiencias inmersivas utilizando Unity y Realidad Virtual, habiendo trabajado en proyectos como recorridos interactivos en VR. Además, he participado en proyectos de desarrollo web en el [Laboratorio de desarrollo de Apps](https://github.com/X-devlab) de la División Académica de Ciencias y Tecnologías de la Información de la Universidad Juárez Autónoma de Tabasco.
+- 💻 **Hola, soy Antonio.** Colaboro en el desarrollo de experiencias inmersivas utilizando **Unity** y **Realidad Virtual**, habiendo trabajado en proyectos como recorridos interactivos en VR. 
+- 🌐 **Visita mi** [**Sitio Web**](https://soyantonioloya.netlify.app/) para conocer más sobre mis proyectos y habilidades.
   
 </td>
 </tr>
@@ -30,7 +31,7 @@
 
 ---
 
-<h3 align="center">Mis estadísticas:</h3>
+<h3 align="center">📊 Mis estadísticas:</h3>
 <p align="center">
 <table align="center" border="0">
   <tr>
@@ -48,7 +49,7 @@
 
 ---
 
-<h3 align="center">Contacto:</h3>
+<h3 align="center">📬 Contacto:</h3>
 <p align="center">
   <a href="https://www.youtube.com/@antonioloya3123" target="blank">
     <img align="center" src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" alt="youtube" height="50" width="50" />
@@ -70,13 +71,10 @@
 
 ---
 
-<h2 align="center">Tecnologías conocidas👨🏻‍💻</h2>
+<h2 align="center">🔧 Tecnologías conocidas👨🏻‍💻</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=unity,blender,cs,cpp,java,css,html,js,nodejs,git,github,vscode&perline=12" />
   </a>
 </p>
-
-
-
 
