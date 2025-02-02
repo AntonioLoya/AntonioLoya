@@ -15,7 +15,7 @@
     Desarrollador apasionado en tecnologías como <strong>Realidad Aumentada</strong> y <strong>Realidad Virtual</strong>. 
     Me encanta crear experiencias inmersivas que combinan tecnología y creatividad.
   </p>
-  <a href="https://soyantonioloya.netlify.app/" target="_blank">
+  <a href="https://antonioloya.website/" target="_blank">
     <img src="https://img.shields.io/badge/Mi_Sitio_Web-000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Sitio Web" />
   </a>
 </div>
